@@ -6,4 +6,4 @@ We will push the latest version after the submitted paper is reviewed and accept
 
 ## Reference
 
-[1] Woosung Choi, Minseok Kim, Jaehwa Chung, Daewon Lee, and Soonyoung Jung. "Investigating Deep Neural Transformations for Spectrogram-based Musical Source Separation" arXiv preprint arXiv:1912.02591 (2019).
+[1] Woosung Choi, Minseok Kim, Jaehwa Chung, Daewon Lee, and Soonyoung Jung. "[Investigating Deep Neural Transformations for Spectrogram-based Musical Source Separation](https://arxiv.org/abs/1912.02591)" arXiv preprint arXiv:1912.02591 (2019).
